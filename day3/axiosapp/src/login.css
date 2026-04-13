@@ -1,0 +1,12 @@
+.clslogin
+{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.clsbutton
+{
+    width: 20vw;
+}

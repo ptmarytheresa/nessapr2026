@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "url": "./assets/images/tshirts.jpg",
+      "name": "",
+      "category": "Clothing",
+      "price": 333,
+      "description": "tshirts"
+    },
+    {
+      "id": 13,
+      "url": "./assets/images/jeans.jpg",
+      "name": "",
+      "category": "Clothing",
+      "price": 333,
+      "description": "jeans"
+    },
+    {
+      "id": 456,
+      "url": "./assets/images/shirts.jpg",
+      "name": "",
+      "category": "cloth",
+      "price": 30,
+      "description": "shirt"
+    }
+  ]
+}
